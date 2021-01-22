@@ -1,0 +1,23 @@
+{
+  "name": "frontend_schimki",
+  "version": "0.0.1",
+  "description": "Frontend для сайта schimki.ru",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/CeleRn/schimki.git"
+  },
+  "keywords": [
+    "site",
+    "service-center"
+  ],
+  "author": "CeleRn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CeleRn/schimki/issues"
+  },
+  "homepage": "https://github.com/CeleRn/schimki#readme"
+}
